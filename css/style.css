@@ -1,12 +1,12 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 10px;
+    padding: 10px;
     box-sizing: border-box;
 }
  
 body {
     font-family: Arial, sans-serif;
-    background-color: #9dc7f7;
+    background: linear-gradient(135deg, #965fdd 20%, #3290e9 100%);
     display: flex;
     justify-content: center;
     align-items: center;
